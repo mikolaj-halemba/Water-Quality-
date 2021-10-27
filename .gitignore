@@ -1,3 +1,5 @@
 /.ipynb_checkpoints
 /1_train.ipynb
 /train.ipynb
+/__pycache__
+/logs/
