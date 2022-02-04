@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Repo](https://github.com/mikolaj-halemba/Water-Quality "<Water Quality> Repository")
+- [Repository](https://github.com/mikolaj-halemba/Water-Quality "<Water Quality> Repository")
 
 ## Screenshots
 
