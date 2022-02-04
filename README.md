@@ -35,7 +35,7 @@
 **Halemba Mikołaj**
 
 
-- [Profile](https://github.com/mikolaj-halemba"Halemba Mikołaj")
+- [Profile](https://github.com/mikolaj-halemba" Halemba Mikołaj")
 - [Email](mailto:mikolaj.halemba96@gmail.com?subject=Hi "Hi!")
 
 
