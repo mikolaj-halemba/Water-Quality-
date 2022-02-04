@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Repo](https://github.com/mikolaj-halemba/Water-Quality "<Water Quality> Repo")
+- [Repo](https://github.com/mikolaj-halemba/Water-Quality "<Water Quality> Repository")
 
 ## Screenshots
 
@@ -12,7 +12,7 @@
 
 ## Built With
 
--Python
+- Python
 
 ## Prerequisites
 - pandas==1.1.3
