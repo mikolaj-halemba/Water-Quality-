@@ -8,9 +8,9 @@ scikit-learn==0.24.2
 fast_ml== 3.68
 imblearn==0.0
 scipy==1.5.2
-catboost==0.26.1
-lightgbm==3.2.1
 xgboost==1.4.0
+gradio==2.7.5.2
+
 
 
 
