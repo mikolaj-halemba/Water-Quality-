@@ -17,7 +17,7 @@
 ## Prerequisites
 - pandas==1.1.3
 - numpy==1.19.2
--matplotlib== 3.3.2
+- matplotlib== 3.3.2
 - seaborn==0.11.0
 - missingno=1.1.3
 - hyperopt==0.2.5
